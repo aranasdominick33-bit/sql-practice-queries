@@ -7,7 +7,7 @@
 -- Date: February 2026
 -- ============================================
 -- NOTE: Database schemas are from Mosh Hamedani's SQL course
--- Used for learning and portfolio demonstration purposes
+-- Used for learning purposes
 -- ============================================
 -- ============================================
 -- SQL_INVOICING DATABASE
